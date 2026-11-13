@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -218,3 +219,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de datos
+*.csv
+*.csv.gz
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Logs de ejecución
+logs/
+*.log
+
+# Data
+*.db
+*.xlsx
+>>>>>>> be54551 (Feat: create file config.py with logger, path dir and file type csv.)
